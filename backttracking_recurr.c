@@ -20,7 +20,7 @@ void choose(int arr[],int n,int index){
     choose(arr,n,index+1);
     
 }
-void main(){
+int main(){
     void choose(int arr[],int n,int index);
     int arr[3]={1,2,3};
     choose(arr,3,0);
